@@ -1,6 +1,6 @@
 #Immutable Diff
 
-Create RFC 6902 style patches between Immutable.JS data structures, such as `Maps`, `Lists`, and `Sets`.
+Create [RFC 6902](https://tools.ietf.org/html/rfc6902) style patches between Immutable.JS data structures, such as `Maps`, `Lists`, and `Sets`.
 
 ##Getting Started
 
